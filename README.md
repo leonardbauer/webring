@@ -1,3 +1,3 @@
 ## Info
-We are going to use a server, so this repo is going to be useless soon. \
-Check [https://github.com/liampas/ring/blob/main/ring.py](https://github.com/liampas/ring/tree/main)
+We are fully using the server, so the scripts found in this repo are useless. \
+Check [https://codeberg.org/liampas/ring](https://codeberg.org/liampas/ring) for the current implementation.
